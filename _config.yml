@@ -20,11 +20,13 @@
 
 title: Robin Bowers
 email: robin.bowers@colorado.edu
-# description: >- # this means to ignore newlines until "baseurl:"
+show_downloads: false
+#description: -> # this means to ignore newlines until "baseurl:"
 #baseurl: /robin-bowers.github.io # the subpath of your site, e.g. /blog
 url: https://robin-bowers.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  robin-bowers
+logo: /images/headshot.jpeg
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
