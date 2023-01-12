@@ -28,8 +28,8 @@ url: https://robin-bowers.github.io # the base hostname & protocol for your site
 github_username:  robin-bowers
 
 # Build settings
-remote_theme: poole/hyde
-plugins:
+remote_theme: pages-themes/minimal@v0.2.0
+lugins:
   - jekyll-feed
 
 # Exclude from processing.
