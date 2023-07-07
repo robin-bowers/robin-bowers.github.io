@@ -11,6 +11,10 @@ I am broadly interested in theoretical computer science, particularly algorithmi
 
 I presented a poster on [High Welfare Matching Markets via Descending Price](https://arxiv.org/abs/2203.02023) at the Simons Institute Workshop on Societal Considerations and Applications in October, 2022. 
 
+## Works in Progress
+
+I am currently working on "Wagering for Aggregation:" using wagering markets as a tool from which to aggregate individual agents' private information. 
+
 ## Papers
 
 <dl>
