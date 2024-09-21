@@ -22,6 +22,7 @@ I presented my work with Bo Waggoner on [High Welfare Matching Markets via Desce
 
 <dl>
 <dt><em><a href="https://arxiv.org/abs/2406.08711" target="_blank" rel="noopener noreferrer">Matching with Nested and Bundled Pandora Boxes (WINE '24, forthcoming)</a></em></dt>
+<dd><b>Robin Bowers</b>, Bo Waggoner.</dd>
 <dt><em><a href="https://arxiv.org/abs/2203.02023" target="_blank" rel="noopener noreferrer">High Welfare Matching Markets via Descending Price (WINE '23)</a></em></dt>
 <dd><b>Robin Bowers</b>, Bo Waggoner.</dd>
 <dt><em><a href="\href{https://dl.acm.org/doi/fullHtml/10.1145/3623509.3633358" target="_blank" rel="noopener noreferrer">Loom Pedals: Retooling Jacquard Weaving for Improvisational Design Workflows (TEI '24)</a></em></dt>
