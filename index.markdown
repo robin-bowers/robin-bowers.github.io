@@ -33,7 +33,7 @@ I wrote a [guide to reading group orgainzation](https://docs.google.com/document
 <dd><b>Robin Bowers</b>, Bo Waggoner.</dd>
 <dt><em><a href="https://arxiv.org/abs/2203.02023" target="_blank" rel="noopener noreferrer">High Welfare Matching Markets via Descending Price (WINE '23)</a></em></dt>
 <dd><b>Robin Bowers</b>, Bo Waggoner.</dd>
-<dt><em><a href="\href{https://dl.acm.org/doi/10.1145/3623509.3633358" target="_blank" rel="noopener noreferrer">Loom Pedals: Retooling Jacquard Weaving for Improvisational Design Workflows (TEI '24)</a></em></dt>
+<dt><em><a href="https://dl.acm.org/doi/10.1145/3623509.3633358" target="_blank" rel="noopener noreferrer">Loom Pedals: Retooling Jacquard Weaving for Improvisational Design Workflows (TEI '24)</a></em></dt>
 <dd>Shanel Wu, Xavier A Corr, Xi Gao, Sasha De Koninck, <b>Robin Bowers</b>, Laura Devendorf.</dd>
 <dt><em><a href="https://ieeexplore.ieee.org/document/9206600" target="_blank" rel="noopener noreferrer">Machine Learning Based MIMO Equalizer for High Frequency (HF) Communications (IJCNN '20)</a></em></dt>
 <dd>S. Spillane, K. H. Jung, <b>Bowers</b>, T. Peken, M. H. Marefat and T. Bose.</dd>
