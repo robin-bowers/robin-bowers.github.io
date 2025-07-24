@@ -4,7 +4,7 @@ layout: default
 
 I’m a 5th year PhD student in the [CS Theory group](https://www.colorado.edu/cs-theory/) at the University of Colorado, Boulder. I’m co-advised by [Dr. Bo Waggoner](https://www.bowaggoner.com/) and [Dr. Rafael Frongillo](https://raf.prof/).
 
-I am broadly interested in theoretical computer science, particularly algorithmic game theory and mechanism design. I'm currently interested in thinking about the value of information and designing algorithms with costly information discovery. I'm especially socially impactful algorithms and fairness in mechanism design
+I am broadly interested in theoretical computer science, particularly algorithmic game theory and mechanism design. I'm currently interested in thinking about the value of information and designing algorithms with costly information discovery. I'm especially interested in socially impactful algorithms and fairness in mechanism design.
 
 I helped found the CU [Algorithmic Fairness Reading Group](https://www.colorado.edu/cs-theory/theory-reading-groups), and wrote a [guide to organizing a reading group](https://docs.google.com/document/d/1KMIdVBVf3o2abj_cYCc5OBPR7b1NEYg5a9ndxVi2kOA/edit?usp=sharing). 
 
