@@ -10,7 +10,9 @@ I helped found the CU [Algorithmic Fairness Reading Group](https://www.colorado.
 
 ## News
 
-I'm co-organizing the [2025 Gender Inclusion Workshop](https://sites.google.com/view/ecgiw/home) at EC at Stanford this year with Natalie Collina, Mirah Shi, and Kunhe Wang.
+My paper [Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More](https://arxiv.org/abs/2506.20030) with Marius Garbea, Manolis Pountourakis, and Sam Taggart was accepted to FOCS'25!
+
+I co-organized the [2025 Gender Inclusion Workshop](https://sites.google.com/view/ecgiw/home) at EC at Stanford this year with Natalie Collina, Mirah Shi, and Kunhe Wang.
 
 I earned my Master's degree in December '24!
 
@@ -25,14 +27,11 @@ I co-organized the [EC Gender Inclusion Workshop](https://sites.google.com/view/
 <dd><b>Robin Bowers</b>, Elias Lindgren, Bo Waggoner.</dd>
 </dl>
 
-<dl>
-<dt><em>Polynomial-Time Approximation Schemes via Utility Alignment: Unit-demand Pricing and More.</em></dt>
-<dd><b>Robin Bowers</b>, Marius Garbea, Emmanouil Pountourakis, Samuel Taggart.</dd>
-</dl>
-
 ## Publications
 
 <dl>
+<dt><em><a href="https://arxiv.org/abs/2506.20030" target="_blank" rel="noopener noreferrer">Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More (FOCS'25, forthcoming)</a></em></dt>
+<dd><b>Robin Bowers</b>, Marius Garbea, Emmanouil Pountourakis, Samuel Taggart.</dd>
 <dt><em><a href="https://arxiv.org/abs/2406.08711" target="_blank" rel="noopener noreferrer">Matching with Nested and Bundled Pandora Boxes (WINE '24)</a></em></dt>
 <dd><b>Robin Bowers</b>, Bo Waggoner.</dd>
 <dt><em><a href="https://arxiv.org/abs/2203.02023" target="_blank" rel="noopener noreferrer">High Welfare Matching Markets via Descending Price (WINE '23)</a></em></dt>
