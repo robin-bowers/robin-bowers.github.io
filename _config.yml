@@ -27,7 +27,7 @@ url: https://robin-bowers.github.io # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  robin-bowers
 logo: /images/headshot.jpeg
-cv: /files/Bowers_CV_Sp25-2.pdf
+cv: /files/Bowers_CV.pdf
 
 # make this true to show github (badly formatted)
 is_user_page: false
