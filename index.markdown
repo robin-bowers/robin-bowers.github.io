@@ -10,27 +10,25 @@ I helped found the CU [Algorithmic Fairness Reading Group](https://www.colorado.
 
 ## News
 
+My paper [Combinatorial Markov Search](https://arxiv.org/abs/2502.08976) with Elias Lindgren and Bo Waggoner was accepted to STOC'26!
+
 My paper [Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More](https://arxiv.org/abs/2506.20030) with Marius Garbea, Manolis Pountourakis, and Sam Taggart was accepted to FOCS'25!
 
 I co-organized the [2025 Gender Inclusion Workshop](https://sites.google.com/view/ecgiw/home) at EC at Stanford this year with Natalie Collina, Mirah Shi, and Kunhe Wang.
 
-I earned my Master's degree in December '24!
-
-I attended the [Winter School on Data Economics](https://mcgt.um6p.ma/en/seminars-conferences/winter-days) in Rabat, Morocco with my advisor [Bo Waggoner](https://www.bowaggoner.com/) as a TA in January '25!
-
-I co-organized the [EC Gender Inclusion Workshop](https://sites.google.com/view/ecgiw/home) at EC in New Haven this year with Yeganeh Alimohammadi, Natalie Collina, Kate Donahue, Bailey Flanigan, and Maneesha Papireddygari.
-
 ## Working Papers
 
 <dl>
-<dt><em><a href="https://arxiv.org/abs/2502.08976" target="_blank" rel="noopener noreferrer">Prophet Inequalities for Bandits, Cabinets, and DAGs</a></em></dt>
-<dd><b>Robin Bowers</b>, Elias Lindgren, Bo Waggoner.</dd>
+<dt><em>Sample Complexity of Peer Prediction.</em></dt>
+<dd>Abdellah Aznag, <b>Robin Bowers</b>, Rachel Cummings, Jason Hartline, Matthew vonAllmen, Bo Waggoner.</dd>
 </dl>
 
 ## Publications
 
 <dl>
-<dt><em><a href="https://arxiv.org/abs/2506.20030" target="_blank" rel="noopener noreferrer">Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More (FOCS'25, forthcoming)</a></em></dt>
+<dt><em><a href="https://arxiv.org/abs/2502.08976" target="_blank" rel="noopener noreferrer">Combinatorial Markov Search</a></em></dt>
+<dd><b>Robin Bowers</b>, Elias Lindgren, Bo Waggoner.</dd>
+<dt><em><a href="https://arxiv.org/abs/2506.20030" target="_blank" rel="noopener noreferrer">Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More (FOCS'25)</a></em></dt>
 <dd><b>Robin Bowers</b>, Marius Garbea, Emmanouil Pountourakis, Samuel Taggart.</dd>
 <dt><em><a href="https://arxiv.org/abs/2406.08711" target="_blank" rel="noopener noreferrer">Matching with Nested and Bundled Pandora Boxes (WINE '24)</a></em></dt>
 <dd><b>Robin Bowers</b>, Bo Waggoner.</dd>
