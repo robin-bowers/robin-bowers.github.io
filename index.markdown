@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m a 5th year PhD student in the [CS Theory group](https://www.colorado.edu/cs-theory/) at the University of Colorado, Boulder. I’m co-advised by [Dr. Bo Waggoner](https://www.bowaggoner.com/) and [Dr. Rafael Frongillo](https://raf.prof/).
+I’m a 5th year PhD candidate in the [CS Theory group](https://www.colorado.edu/cs-theory/) at the University of Colorado, Boulder. I’m co-advised by [Dr. Bo Waggoner](https://www.bowaggoner.com/) and [Dr. Rafael Frongillo](https://raf.prof/).
 
 I am broadly interested in theoretical computer science, particularly algorithmic game theory and mechanism design. I'm currently interested in thinking about the value of information and designing algorithms with costly information discovery. I'm especially interested in socially impactful algorithms and fairness in mechanism design.
 
@@ -26,7 +26,7 @@ I co-organized the [2025 Gender Inclusion Workshop](https://sites.google.com/vie
 ## Publications
 
 <dl>
-<dt><em><a href="https://arxiv.org/abs/2502.08976" target="_blank" rel="noopener noreferrer">Combinatorial Markov Search</a></em></dt>
+<dt><em><a href="https://arxiv.org/abs/2502.08976" target="_blank" rel="noopener noreferrer">Combinatorial Markov Search (STOC'26)</a></em></dt>
 <dd><b>Robin Bowers</b>, Elias Lindgren, Bo Waggoner.</dd>
 <dt><em><a href="https://arxiv.org/abs/2506.20030" target="_blank" rel="noopener noreferrer">Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More (FOCS'25)</a></em></dt>
 <dd><b>Robin Bowers</b>, Marius Garbea, Emmanouil Pountourakis, Samuel Taggart.</dd>
