@@ -10,11 +10,11 @@ I helped found the CU [Algorithmic Fairness Reading Group](https://www.colorado.
 
 ## News
 
+My paper <em> Sample Complexity of Peer Prediction.</em> with Abdellah Aznag, Rachel Cummings, Jason Hartline, Matthew vonAllmen, and Bo Waggoner was accepted to EC'26!
+
 My paper [Combinatorial Markov Search](https://arxiv.org/abs/2502.08976) with Elias Lindgren and Bo Waggoner was accepted to STOC'26!
 
 My paper [Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More](https://arxiv.org/abs/2506.20030) with Marius Garbea, Manolis Pountourakis, and Sam Taggart was accepted to FOCS'25!
-
-I co-organized the [2025 Gender Inclusion Workshop](https://sites.google.com/view/ecgiw/home) at EC at Stanford this year with Natalie Collina, Mirah Shi, and Kunhe Wang.
 
 <!-- 
 ## Working Papers
