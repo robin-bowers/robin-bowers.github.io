@@ -16,15 +16,21 @@ My paper [Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Dema
 
 I co-organized the [2025 Gender Inclusion Workshop](https://sites.google.com/view/ecgiw/home) at EC at Stanford this year with Natalie Collina, Mirah Shi, and Kunhe Wang.
 
+<!-- 
 ## Working Papers
 
-<dl>
+ <dl>
 <dt><em>Sample Complexity of Peer Prediction.</em></dt>
 <dd>Abdellah Aznag, <b>Robin Bowers</b>, Rachel Cummings, Jason Hartline, Matthew vonAllmen, Bo Waggoner.</dd>
 </dl>
+-->
 
 ## Publications
 
+<dl>
+<dt><em>Sample Complexity of Peer Prediction (EC'26, Forthcoming)</em></dt>
+<dd>Abdellah Aznag, <b>Robin Bowers</b>, Rachel Cummings, Jason Hartline, Matthew vonAllmen, Bo Waggoner.</dd>
+</dl>
 <dl>
 <dt><em><a href="https://arxiv.org/abs/2502.08976" target="_blank" rel="noopener noreferrer">Combinatorial Markov Search (STOC'26)</a></em></dt>
 <dd><b>Robin Bowers</b>, Elias Lindgren, Bo Waggoner.</dd>
