@@ -2,19 +2,22 @@
 layout: default
 ---
 
-I’m a 5th year PhD candidate in the [CS Theory group](https://www.colorado.edu/cs-theory/) at the University of Colorado, Boulder. I’m co-advised by [Dr. Bo Waggoner](https://www.bowaggoner.com/) and [Dr. Rafael Frongillo](https://raf.prof/).
-
 I am broadly interested in theoretical computer science, particularly algorithmic game theory and mechanism design. I'm currently interested in thinking about the value of information and designing algorithms with costly information discovery. I'm especially interested in socially impactful algorithms and fairness in mechanism design.
 
 I helped found the CU [Algorithmic Fairness Reading Group](https://www.colorado.edu/cs-theory/theory-reading-groups), and wrote a [guide to organizing a reading group](https://docs.google.com/document/d/1KMIdVBVf3o2abj_cYCc5OBPR7b1NEYg5a9ndxVi2kOA/edit?usp=sharing). 
 
+I was privileged to complete my PhD in computer science in the [CS Theory group](https://www.colorado.edu/cs-theory/) at the University of Colorado Boulder. where I was co-advised by [Dr. Bo Waggoner](https://www.bowaggoner.com/) and [Dr. Rafael Frongillo](https://raf.prof/).
+
+
 ## News
+
+I am co-organizing a tutorial on [Costly Information Models for Online Selection](https://sites.google.com/colorado.edu/costly-info-tutorial/home) at EC'26 in Rome with Dimitris Christou!
+
+I defended my dissertation <em>Beyond Pandora’s Box: Algorithm and Mechanism Design with Costly Information Acquisition</em> on June 30, 2026!
 
 My paper <em> Sample Complexity of Peer Prediction.</em> with Abdellah Aznag, Rachel Cummings, Jason Hartline, Matthew vonAllmen, and Bo Waggoner was accepted to EC'26!
 
 My paper [Combinatorial Markov Search](https://arxiv.org/abs/2502.08976) with Elias Lindgren and Bo Waggoner was accepted to STOC'26!
-
-My paper [Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More](https://arxiv.org/abs/2506.20030) with Marius Garbea, Manolis Pountourakis, and Sam Taggart was accepted to FOCS'25!
 
 <!-- 
 ## Working Papers
