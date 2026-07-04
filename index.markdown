@@ -11,7 +11,7 @@ I was privileged to complete my PhD in computer science in the [CS Theory group]
 
 ## News
 
-I am co-organizing a tutorial on [Costly Information Models for Online Selection](https://sites.google.com/colorado.edu/costly-info-tutorial/home) at EC'26 in Rome with Dimitris Christou!
+I am co-organizing a tutorial on [Costly Information Models for Online Selection](https://sites.google.com/colorado.edu/costly-information-tutorial/home) at EC'26 in Rome with Dimitris Christou!
 
 I defended my dissertation <em>Beyond Pandora’s Box: Algorithm and Mechanism Design with Costly Information Acquisition</em> on June 30, 2026!
 
