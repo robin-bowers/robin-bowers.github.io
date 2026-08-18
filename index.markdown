@@ -33,7 +33,7 @@ My paper [Combinatorial Markov Search](https://arxiv.org/abs/2502.08976) with El
 ## Publications
 
 <dl>
-<dt><em>Sample Complexity of Peer Prediction (EC'26, Forthcoming)</em></dt>
+<dt><em><a href="https://arxiv.org/abs/2608.16838" target="_blank" rel="noopener noreferrer">Sample Complexity of Peer Prediction (EC'26)</a></em></dt>
 <dd>Abdellah Aznag, <b>Robin Bowers</b>, Rachel Cummings, Jason Hartline, Matthew vonAllmen, Bo Waggoner.</dd>
 <dt><em><a href="https://arxiv.org/abs/2502.08976" target="_blank" rel="noopener noreferrer">Combinatorial Markov Search (STOC'26)</a></em></dt>
 <dd><b>Robin Bowers</b>, Elias Lindgren, Bo Waggoner.</dd>
