@@ -8,12 +8,14 @@ I helped found the CU [Algorithmic Fairness Reading Group](https://www.colorado.
 
 I was privileged to complete my PhD in computer science in the [CS Theory group](https://www.colorado.edu/cs-theory/) at the University of Colorado Boulder. where I was co-advised by [Dr. Bo Waggoner](https://www.bowaggoner.com/) and [Dr. Rafael Frongillo](https://raf.prof/).
 
+My dissertation is ["Beyond Pandora’s Box: Algorithm and Mechanism Design with Costly Information Acquisition."](https://robin-bowers.com/files/bowers_dissertation.pdf)
+
 
 ## News
 
 I am co-organizing a tutorial on [Costly Information Models for Online Selection](https://sites.google.com/colorado.edu/costly-information-tutorial/home) at EC'26 in Rome with Dimitris Christou!
 
-I defended my dissertation <em>Beyond Pandora’s Box: Algorithm and Mechanism Design with Costly Information Acquisition</em> on June 30, 2026!
+I defended my dissertation ["Beyond Pandora’s Box: Algorithm and Mechanism Design with Costly Information Acquisition"](https://robin-bowers.com/files/bowers_dissertation.pdf) on June 30, 2026!
 
 My paper <em> Sample Complexity of Peer Prediction.</em> with Abdellah Aznag, Rachel Cummings, Jason Hartline, Matthew vonAllmen, and Bo Waggoner was accepted to EC'26!
 
